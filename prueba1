@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+
+<head>
+     <title> Proyecto</title>
+     <h1>Mi Primer Pagina Web</h1>
+     <style>
+          h1 {
+               color: cornflowerblue;
+               font-size: xx-large;
+               font-weight: bold;
+               font-family: 'Trebuchet MS';
+
+          }
+     </style>
+     <nav>
+
+          <a href="Turismo">Turismo</a>
+          <a href="Fotos">Fotos</a>
+          <a href="Información">Información</a>
+          <style>
+               a {
+                    color: crimson;
+                    font-weight: bolder;
+                    font-family: 'Segoe UI';
+                    font-size: xx-large;
+
+               }
+          </style>
+
+     </nav>
+     <section id="Turismmo"></section>
+
+     <h1>Turismo</h1>
+     <p> Lorem ipsum dolor
+          sit amet consectetur,
+          adipisicing elit.
+          Expedita nostrum
+          aliquam dolorum
+          laboriosam optio,
+          nisi, nobis iusto consequuntur
+          inventore neque voluptate repudiandae
+          perspiciatis
+          quos ab sit quaerat vitae, esse amet.
+          <style>
+               p {
+                    color black;
+                    font-size: x-large;
+                    font-family: Verdana;
+                    font-weight: lighter;
+
+               }
+          </style>
+     </p>
+
+     </section>
+
+     <section id="fotos"></section>
+     <h2>Fotos</h2>
+     <style>
+          h2 {
+               color: cornflowerblue;
+               font-size: xx-large;
+               font-weight: bold;
+               font-family: 'Trebuchet MS';
+
+          }
+     </style>
+
+     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Quae distinctio cupiditate
+          quo voluptates saepe ab beatae necessitatibus, possimus, quidem autem et dolor
+          atque asperiores odit sunt iusto nostrum corporis. Nisi?
+          <style>
+               p {
+                    color black;
+                    font-size: x-large;
+                    font-family: Verdana;
+                    font-weight: lighter;
+
+
+               }
+          </style>
+     </p>
+
+</head>
+<section id="Información"></section>
+<h3>Información</h3>
+<style>
+     h3 {
+          color: cornflowerblue;
+          font-size: xx-large;
+          font-weight: bold;
+          font-family: 'Trebuchet MS';
+
+     }
+</style>
+
+<p> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+     Esse sit similique asperiores exercitationem consectetur illo,
+     sunt numquam molestias, nulla repellendus cupiditate.
+     Suscipit, in cumque? Nesciunt sint sunt incidunt impedit minus!
+     <style>
+          p {
+               color black;
+               font-size: x-large;
+               font-family: Verdana;
+               font-weight: lighter;
+
+
+          }
+     </style>
+
+</p>
+<div class="Tierra del Fuego">
+     <style>
+          div {
+               color: chartreuse;
+               font-size: xx-large;
+               font-family: Cambria;
+
+
+          }
+     </style>
+     <img src="imagenes/imagen1.jpg" alt="imagen1">
+     <p>Esto es Tierra del Fuego
+          <style>
+               p {
+                    color: coral;
+                    font-size: x-large;
+
+               }
+          </style>
+     </p>
+
+</div>
+<h4>Entretenimiento</h4>
+<style>
+     h4 {
+          color: darkmagenta;
+          font-size: xx-large;
+          font-family: Georgia;
+
+     }
+</style>
+</h4>
+<audio controls>
+     <source src="audio/My Sea.mp3" mysea/mp3">
+</audio>
+
+<h5>My Sea Live</h5>
+<style>
+      h5{ color: blueviolet;font-size: xx-large;font-family:Georgia ;
+
+      }
+</style>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nn1pbxe8bAI" title="YouTube video player"
+     frameborder="0"
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+     allowfullscreen></iframe>
+     <footer>
+          <p>Maria Victoria Garcia Rivas  2023 Argentina. Todos los derechos reservados.</p>
+          <style>
+                footer 
+                      { background-color: beige; padding: 10px;text-align: center;
+
+                      }
+                
+          
+                    
+          </style>
+      </footer>
+    
+            
